@@ -4,7 +4,7 @@ const generateMarkdown = require("./utils/generateMarkdown"); //this is the js f
 const inquirer = require("inquirer");
 const fs = require("fs");
 
-//array of questions for user input
+//array of questions for user input // Array of objects // array is special object in js
 //the answers to these questions will be the data that will be used to fill in the readme
 const questions = [
   {
