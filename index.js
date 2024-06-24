@@ -10,47 +10,47 @@ const questions = [
   {
     type: "input",
     name: "title",
-    message: "Please provide the title",
+    message: "Please provide the project title:",
   },
   {
     type: "input",
     name: "description",
-    message: "Please provide description of project",
+    message: "Please provide description of project:",
   },
   {
     type: "input",
     name: "install",
-    message: "Please provide instructions for installation",
+    message: "Please provide instructions for installation:",
   },
   {
     type: "input",
     name: "usage",
-    message: "Please provide usage instructions",
+    message: "Please provide usage instructions:",
   },
   {
     type: "input",
-    name: "testing",
-    message: "Please provide testing instructions",
+    name: "tests",
+    message: "Please provide testing instructions:",
   },
   {
     type: "input",
     name: "guidelines",
-    message: "Please provide contribution guidelines",
+    message: "Please provide contribution guidelines:",
   },
   {
     type: "input",
     name: "username",
-    message: "Please provide your GitHub username",
+    message: "Please provide your GitHub username:",
   },
   {
     type: "input",
     name: "email",
-    message: "Please provide your email",
+    message: "Please provide your email:",
   },
   {
     type: "list",
     name: "license",
-    message: "Please provide the license",
+    message: "Please provide the license:",
     choices: ["MIT", "Apache2.0", "GPL3.0", "BSD3", "None"],
   },
 ];
