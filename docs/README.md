@@ -8,6 +8,7 @@ The README Generator is a command-line application that generates a high-quality
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Video](#video)
 - [Questions](#questions)
 
 ## Installation
