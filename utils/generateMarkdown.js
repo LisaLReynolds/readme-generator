@@ -52,7 +52,7 @@ function generateMarkdown(data) {
 
   ## Questions
   If you have any questions you can email me at ${data.email}.
-  If you want to see more of my work visit my GitHub page at [${
+  To see more of my work visit my GitHub page at [${
     data.username
   }](https://github.com/${data.username})
 `;
